@@ -135,3 +135,33 @@ header {
     padding-top: 30px;
 }
 
+.banner2 img {
+    display: inline-flex;
+    margin-top: 70px;
+    float: left;
+    margin-left: 20px;
+}
+
+.practice {
+    display: inline-flex;
+    color: darkslategray;
+    float: left;
+    margin-top: 80px;
+    margin-right: 500px;
+    margin-left: 80px;
+    height: 70px;
+    width: 1000px;
+    font-size: 70px;
+}
+
+.curabitur {
+    display: inline-flex;
+    color: darkslategray;
+    float: left;
+    margin-top: 40px;
+    margin-right: 500px;
+    margin-left: 100px;
+    height: 70px;
+    width: 1000px;
+    font-size: 35px;
+} 
