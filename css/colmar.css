@@ -140,6 +140,7 @@ header {
     margin-top: 70px;
     float: left;
     margin-left: 20px;
+    margin-right: 40px;
 }
 
 .practice {
@@ -165,3 +166,50 @@ header {
     width: 1000px;
     font-size: 35px;
 } 
+
+.orientation img {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-right: 80px;
+    margin-top: 70px;
+    border-left: 6px black;
+}
+
+.orihead {
+    display: inline-flex;
+    float: right;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: auto;
+    position: relative;
+    bottom: 800px;
+    right: 100px;
+    font-weight: bolder;
+    font-size: 40px;
+    color: darkslategray;
+}
+
+.date {
+    display: inline-flex;
+    float: right;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 20px;
+    position: relative;
+    bottom: 800px;
+    margin-top: 10px;
+    right: 100px;
+}
+
+.read {
+    display: inline-flex;
+    float: right;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: blue;
+    position: relative;
+    bottom: 800px;
+    right: 200px;
+    margin-top: 10px;
+}
