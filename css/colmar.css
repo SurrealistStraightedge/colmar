@@ -183,7 +183,7 @@ header {
     flex-wrap: wrap;
     width: auto;
     position: relative;
-    bottom: 800px;
+    bottom: 700px;
     right: 100px;
     font-weight: bolder;
     font-size: 40px;
@@ -197,7 +197,7 @@ header {
     flex-wrap: wrap;
     font-size: 20px;
     position: relative;
-    bottom: 800px;
+    bottom: 700px;
     margin-top: 10px;
     right: 100px;
 }
@@ -209,7 +209,97 @@ header {
     flex-wrap: wrap;
     color: blue;
     position: relative;
-    bottom: 800px;
+    bottom: 700px;
     right: 200px;
     margin-top: 10px;
+}
+
+.ourcampus img{
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    margin-top: 30px;
+}
+
+.our {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative; 
+    font-weight: bolder;
+    font-size: 40px;
+    color: darkslategray;
+    bottom: 135px;
+    left: 100px;
+}
+
+.find {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative; 
+    font-size: 20px;
+    bottom: 125px;
+    right: 70px;
+}
+
+.read2 {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    color: blue;
+    left: 15px;
+    bottom: 110px;
+}
+
+.ourguest img {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    margin-top: 30px;
+    bottom: 330px;
+    right: 435px;
+}
+
+.guest {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    font-weight: bolder;
+    font-size: 40px;
+    color: darkslategray;
+    left: 1520px;
+    bottom: 510px;
+}
+
+.join {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    left: 1230px;
+    bottom: 470px;
+}
+
+.about {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    left: 970px;
+    bottom: 445px;
+}
+
+.read3 {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    color: blue;
+    left: 775px;
+    bottom: 410px;
 }
