@@ -303,3 +303,79 @@ header {
     left: 775px;
     bottom: 410px;
 }
+
+.emanuel {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    font-size: 20px;
+    right: 800px;
+    font-style: italic;
+    bottom: 50px;
+}
+
+.column {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    background-color: lightgray;
+    width: 2000px;
+    text-align: center;
+    height: 1000px;
+}
+
+.column h1 {
+    font-size: 70px;
+    color: darkslategray;
+    font-weight: bold;
+}
+
+.software {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    width: 500px;
+    height: 250px;
+    left: 100px;
+}
+
+.engineer {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    background-color: white;
+    width: 500px;
+    height: 250px;
+    color: darkslategray;
+    left: 100px;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+
+.courses {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    right: 730px;
+    bottom: 170px;
+    color: gray;
+    font-size: 25px;
+}
+
+.web {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    color: gray;
+    left: 150px;
+    bottom: 130px;
+    font-size: 25px;
+    width: 400px;
+}
