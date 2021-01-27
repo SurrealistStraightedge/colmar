@@ -361,7 +361,7 @@ header {
     font-weight: bold;
     font-size: 45px;
     bottom: 230px;
-    left: 50px;
+    left: 20px;
 }
 
 .courses {
@@ -372,7 +372,7 @@ header {
     bottom: 180px;
     color: gray;
     font-size: 25px;
-    right: 50px;
+    right: 90px;
 }
 
 .web {
@@ -381,7 +381,7 @@ header {
     flex-wrap: wrap;
     position: relative;
     color: gray;
-    left: 70px;
+    left: 120px;
     bottom: 150px;
     font-size: 25px;
     width: 400px;
@@ -394,8 +394,8 @@ header {
     position: relative;
     width: 500px;
     height: 250px;
-    left: 200px;
-    bottom: 75px;
+    left: 700px;
+    bottom: 888px;
 }
 
 
@@ -407,17 +407,18 @@ header {
     width: 500px;
     height: 250px;
     background-color: white;
-    top: 425px;
-    left: 200px;
+    left: 700px;
+    bottom: 388px;
 }
 
 .compart {
-    bottom: 55px;
+    
     position: relative;
     color: darkslategray;
     font-weight: bold;
     font-size: 45px;
-    left: 110px;
+    left: 610px;
+    bottom: 870px;
 }
 
 .courses2 {
@@ -427,8 +428,8 @@ header {
     position: relative; 
     color: gray;
     font-size: 25px;
-    left: 50px;
-    bottom: 25px;
+    left: 530px;
+    bottom: 830px;
 }
 
 .imaging {
@@ -439,7 +440,8 @@ header {
     font-size: 25px;
     width: 400px;
     color: gray;
-    left: 230px;
+    left: 750px;
+    bottom: 810px;
 }
 
 .designimg {
@@ -449,8 +451,8 @@ header {
     position: relative;
     width: 500px;
     height: 250px;
-    left: 800px;
-    bottom: 490px;
+    left: 630px;
+    top: 170px;
 }
 
 .whitebox3 {
@@ -461,8 +463,8 @@ header {
     width: 500px;
     height: 250px;
     background-color: white;
-    top: 420px;
-    left: 300px;
+    top: 150px;
+    left: 500px;
 }
 
 .design {
@@ -519,4 +521,126 @@ header {
     background-color: white;
     right: 900px;
     top: 350px;
+}
+
+.data {
+    position: relative;
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.courses4 {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative; 
+    color: gray;
+    font-size: 25px;
+}
+
+.science {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative; 
+    font-size: 25px;
+    width: 400px;
+    color: gray;
+}
+
+.businessimg {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    width: 500px;
+    height: 250px;
+    top: 800px;
+}
+
+.whitebox5 {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative; 
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    top: 600px;
+}
+
+.business {
+    position: relative;
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 45px;
+    top: 100px;
+}
+
+.courses5 {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative; 
+    color: gray;
+    font-size: 25px;
+    top: 100px;
+}
+
+.product {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative; 
+    font-size: 25px;
+    width: 400px;
+    color: gray;
+    top: 500px;
+} 
+
+.marketingimg {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    width: 500px;
+    height: 250px;
+    top: 200px;
+}
+
+.whitebox6 {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative; 
+    width: 500px;
+    height: 250px;
+    background-color: white;
+}
+
+.marketing {
+    position: relative;
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.courses6 {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative; 
+    color: gray;
+    font-size: 25px;
+}
+
+.analytics {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative; 
+    font-size: 25px;
+    width: 400px;
+    color: gray;
 }
