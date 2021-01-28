@@ -331,7 +331,7 @@ header {
     color: darkslategray;
     font-weight: bold;
     position: relative;
-    left: 500px;
+    left: 620px;
 }
 
 .software {
@@ -417,7 +417,7 @@ header {
     color: darkslategray;
     font-weight: bold;
     font-size: 45px;
-    left: 610px;
+    left: 570px;
     bottom: 870px;
 }
 
@@ -428,7 +428,7 @@ header {
     position: relative; 
     color: gray;
     font-size: 25px;
-    left: 530px;
+    left: 510px;
     bottom: 830px;
 }
 
@@ -463,8 +463,8 @@ header {
     width: 500px;
     height: 250px;
     background-color: white;
-    top: 150px;
-    left: 500px;
+    top: 170px;
+    left: 630px;
 }
 
 .design {
@@ -472,8 +472,8 @@ header {
     color: darkslategray;
     font-weight: bold;
     font-size: 45px;
-    top: 190px;
-    left: 130px;
+    bottom: 55px;
+    left: 450px;
 }
 
 .courses3 {
@@ -483,8 +483,8 @@ header {
     position: relative; 
     color: gray;
     font-size: 25px;
-    top: 225px;
-    left: 120px;
+    bottom: 15px;
+    left: 450px;
 }
 
 .user {
@@ -495,8 +495,8 @@ header {
     font-size: 25px;
     width: 400px;
     color: gray;
-    top: 260px; 
-    left: 280px;
+    top: 10px;
+    left: 670px;
 }
 
 
@@ -507,8 +507,8 @@ header {
     position: relative;
     width: 500px;
     height: 250px;
-    right: 900px;
-    top: 350px;
+    top: 200px;
+    right: 565px;
 }
 
 .whitebox4 {
@@ -519,8 +519,8 @@ header {
     width: 500px;
     height: 250px;
     background-color: white;
-    right: 900px;
-    top: 350px;
+    right: 565px;
+    top: 200px;
 }
 
 .data {
@@ -528,6 +528,8 @@ header {
     color: darkslategray;
     font-weight: bold;
     font-size: 45px;
+    right: 790px;
+    bottom: 30px;
 }
 
 .courses4 {
@@ -537,6 +539,7 @@ header {
     position: relative; 
     color: gray;
     font-size: 25px;
+    right: 770px;
 }
 
 .science {
@@ -547,6 +550,8 @@ header {
     font-size: 25px;
     width: 400px;
     color: gray;
+    right: 520px;
+    top: 30px;
 }
 
 .businessimg {
@@ -556,7 +561,8 @@ header {
     position: relative;
     width: 500px;
     height: 250px;
-    top: 800px;
+    top: 835px;
+    right: 635px;
 }
 
 .whitebox5 {
@@ -567,7 +573,8 @@ header {
     width: 500px;
     height: 250px;
     background-color: white;
-    top: 600px;
+    top: 835px;
+    right: 635px;
 }
 
 .business {
@@ -575,7 +582,8 @@ header {
     color: darkslategray;
     font-weight: bold;
     font-size: 45px;
-    top: 100px;
+    top: 610px;
+    right: 810px;
 }
 
 .courses5 {
@@ -585,7 +593,8 @@ header {
     position: relative; 
     color: gray;
     font-size: 25px;
-    top: 100px;
+    top: 640px;
+    right: 825px;
 }
 
 .product {
@@ -596,7 +605,8 @@ header {
     font-size: 25px;
     width: 400px;
     color: gray;
-    top: 500px;
+    right: 590px;
+    top: 666px;
 } 
 
 .marketingimg {
@@ -607,6 +617,7 @@ header {
     width: 500px;
     height: 250px;
     top: 200px;
+    right: 50px;
 }
 
 .whitebox6 {
@@ -617,6 +628,8 @@ header {
     width: 500px;
     height: 250px;
     background-color: white;
+    top: 200px;
+    right: 50px;
 }
 
 .marketing {
@@ -624,6 +637,8 @@ header {
     color: darkslategray;
     font-weight: bold;
     font-size: 45px;
+    right: 230px;
+    bottom: 30px;
 }
 
 .courses6 {
@@ -633,6 +648,8 @@ header {
     position: relative; 
     color: gray;
     font-size: 25px;
+    right: 250px;
+    top: 5px;
 }
 
 .analytics {
@@ -643,4 +660,5 @@ header {
     font-size: 25px;
     width: 400px;
     color: gray;
+    top: 30px;
 }
