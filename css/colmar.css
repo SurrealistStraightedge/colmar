@@ -768,3 +768,67 @@ header {
     left: 690px;
     bottom: 700px;
 }
+
+.now {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    font-weight: bolder;
+    font-size: 40px;
+    color: darkslategray;
+    left: 730px;
+    bottom: 900px;
+}
+
+.research {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    font-size: 20px;
+    color: darkslategray;
+    left: 485px;
+    bottom: 855px;
+}
+
+.copy {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    right: 1150px;
+    bottom: 180px;
+}
+
+.terms {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    font-size: 20px;
+    color: darkslategray;
+    bottom: 170px;
+}
+
+.privacy {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    font-size: 20px;
+    color: darkslategray;
+    bottom: 170px;
+    left: 20px;
+}
+
+.mobview {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    font-weight: bold;
+    font-size: 40px;
+    color: blue;
+    right: 900px;
+}
