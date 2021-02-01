@@ -832,3 +832,68 @@ header {
     color: blue;
     right: 900px;
 }
+
+.mobicon {
+    display: none;
+}
+
+.mobicon2 {
+    display: none;
+}
+
+.mobicon3 {
+    display: none;
+}
+
+.mobicon4 {
+    display: none;
+}
+
+@media only screen and (max-width:1000px) {
+    .campus {
+        display: none;
+    }
+    .mobicon {
+        display: inline-block;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .online {
+        display: none;
+    }
+    .mobicon2 {
+        display: inline-block;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .companies {
+        display: none;
+    }
+    .mobicon3 {
+        display: inline-block;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .sign {
+        display: none;
+    }
+    .mobicon4 {
+        display: inline-block;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .colmar, .academy, .headicon {
+        display: none;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .banner {
+        max-width: 300px;
+        max-height: 300px;
+    }
+}
