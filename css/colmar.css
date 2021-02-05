@@ -663,6 +663,10 @@ header {
     top: 30px;
 }
 
+.hidh1 {
+    display: hidden;
+}
+
 .exhibit {
     font-size: 70px;
     color: darkslategray;
@@ -971,9 +975,13 @@ header {
 }
 
 @media only screen and (max-width:1000px) {
-    .banner2 img, .practice, .curabitur, .column, .emanuel, .reimagine,
+    .column, .banner2 img, .practice, .curabitur, .emanuel, .reimagine,
      .fismaimg, .fisma, .prototype, .showcase, .protoprod, .thesisnow,
-     .now, .research {
+     .now, .research, .privacy, .mobview, .whitebox, .whitebox2, .whitebox3,
+     .whitebox4, .whitebox5, .whitebox6, .courses, .courses2, .courses3, .courses4
+     , .courses5, .courses6, .web, .imaging, .user, .science, .product, .analytics,
+     .software, .phonepic, .designimg, .dataimg, .businessimg, .marketingimg, .thesis p,
+     .terms {
         display: none;
     }
 }
@@ -1049,7 +1057,7 @@ header {
         margin: 0%;
         margin-bottom: 0%;
         top: 200px;
-        left: 70px;
+        right: 15px;
     }
 }
 
@@ -1057,9 +1065,10 @@ header {
     .read2 {
         display: inline-block;
         position: relative;
-        float: none;
+        float: left;
         margin: 0%;
         top: 260px;
+        left: 150px;
     }
 }
 
@@ -1074,3 +1083,52 @@ header {
     }
 }
 
+@media only screen and (max-width:1000px) {
+    .video {
+        position: relative;
+        width: 480px;
+        margin-top: 0%;
+        top: 1000px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .guest {
+        display: block;
+        position: relative;
+        top: 370px;
+        left: 75px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .join, .about {
+        display: block;
+        position: relative;
+        top: 400px;
+        left: 90px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .read3 {
+        display: block;
+        position: relative;
+        top: 430px;
+        left: 170px; 
+    }
+}
+
+
+
+@media only screen and (max-width:1000px) {
+    .hidh1 {
+        visibility: visible;
+        display: inline-block;
+        color: black;
+        font-size: 20px;
+        position: relative;
+        background-color: gray;
+        
+    }
+}
