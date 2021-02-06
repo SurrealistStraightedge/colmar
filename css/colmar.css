@@ -663,9 +663,6 @@ header {
     top: 30px;
 }
 
-.hidh1 {
-    display: hidden;
-}
 
 .exhibit {
     font-size: 70px;
@@ -850,6 +847,10 @@ header {
 }
 
 .mobicon4 {
+    display: none;
+}
+
+.hidden {
     display: none;
 }
 
@@ -1120,15 +1121,33 @@ header {
 }
 
 
+@media only screen and (max-width:1000px) {
+    .hidden {
+        display: block;
+        position: relative;
+        
+    }
+}
 
 @media only screen and (max-width:1000px) {
-    .hidh1 {
-        visibility: visible;
-        display: inline-block;
-        color: black;
-        font-size: 20px;
+    .hideLearn {
+        display: block;
+        color: white;
+        font-size: 40px;
         position: relative;
         background-color: gray;
-        
+        bottom: 400px;
+        height: 50px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .hideComp {
+        display: block;
+        position: relative;
+        color: white;
+        background-color: grey;
+        font-size: 40px;
+        bottom: 360px;
     }
 }
