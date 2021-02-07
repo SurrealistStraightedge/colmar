@@ -1089,7 +1089,7 @@ header {
         position: relative;
         width: 480px;
         margin-top: 0%;
-        top: 1000px;
+        top: 910px;
     }
 }
 
@@ -1132,12 +1132,12 @@ header {
 @media only screen and (max-width:1000px) {
     .hideLearn {
         display: block;
-        color: white;
-        font-size: 40px;
+        font-size: 60px;
         position: relative;
-        background-color: gray;
-        bottom: 400px;
+        bottom: 450px;
         height: 50px;
+        left: 55px;
+        font-weight: bold;
     }
 }
 
@@ -1149,5 +1149,91 @@ header {
         background-color: grey;
         font-size: 40px;
         bottom: 360px;
+        height: 60px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .hideDesign {
+        display: block;
+        position: relative;
+        color: white;
+        background-color: grey;
+        font-size: 40px;
+        bottom: 340px;
+        height: 60px;
+    }
+}
+  
+@media only screen and (max-width:1000px) {
+    .hideData {
+        display: block;
+        position: relative;
+        color: white;
+        background-color: grey;
+        font-size: 40px;
+        bottom: 320px;
+        height: 60px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .hideSoft {
+        display: block;
+        position: relative;
+        color: white;
+        background-color: grey;
+        font-size: 40px;
+        bottom: 380px;
+        height: 60px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .hideBusiness {
+        display: block;
+        position: relative;
+        color: white;
+        background-color: grey;
+        font-size: 40px;
+        bottom: 300px;
+        height: 60px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .hideMarketing {
+        display: block;
+        position: relative;
+        color: white;
+        background-color: grey;
+        font-size: 40px;
+        bottom: 280px;
+        height: 60px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .exhibit {
+        color: white;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .hideEx {
+        display: block;
+        position: relative;
+        font-size: 60px;
+        font-weight: bold;
+        bottom: 200px;
+        left: 55px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .hideCopy {
+        display: block;
+        position: relative;
+        top: 450px;
     }
 }
